@@ -172,6 +172,15 @@ Key observations:
 
 Random Forest was selected as the best-performing model for heart disease severity prediction.
 
+Model Visualizations
+
+Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+Random Forest Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
 ---
 
 Technologies Used
