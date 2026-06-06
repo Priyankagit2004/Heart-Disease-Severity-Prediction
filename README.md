@@ -178,9 +178,9 @@ Feature Importance
 
 ![Feature Importance](images/feature_importance.png)
 
-Random Forest Confusion Matrix
+Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 ---
 
 Technologies Used
